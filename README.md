@@ -12,8 +12,8 @@ Feedback Collection: Gather feedback from at least 10 users.
 Community Engagement: Share the app within 3 relevant communities.
 
 ## Links:
-Trello Board:https://trello.com/b/4UHDl2JQ/strivewell-the-yoga-consistency-app-for-busy-professionals
+Trello Board: https://trello.com/b/4UHDl2JQ/strivewell-the-yoga-consistency-app-for-busy-professionals
 
-Impact Mapping and RICE framework:https://miro.com/app/board/uXjVLfUMYco=/
+Impact Mapping and RICE framework: https://miro.com/app/board/uXjVLfUMYco=/
 ![Impact Mapping and RICE framework](Miroboard.png)
 
