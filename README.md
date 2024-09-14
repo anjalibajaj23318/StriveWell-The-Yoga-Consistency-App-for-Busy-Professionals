@@ -15,5 +15,5 @@ Community Engagement: Share the app within 3 relevant communities.
 Trello Board:https://trello.com/b/4UHDl2JQ/strivewell-the-yoga-consistency-app-for-busy-professionals
 
 Impact Mapping and RICE framework:
-![Impact Mapping and RICE framework](miro.png)
+![Impact Mapping and RICE framework](Miroboard.png)
 
