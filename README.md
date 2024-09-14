@@ -10,3 +10,8 @@ Launch the first version of the wellness app within 8 weeks, focusing on user en
 User Acquisition: Achieve 50 users by the end of the 8 weeks.
 Feedback Collection: Gather feedback from at least 10 users.
 Community Engagement: Share the app within 3 relevant communities.
+
+## Links:
+Trello Board:https://trello.com/b/4UHDl2JQ/strivewell-the-yoga-consistency-app-for-busy-professionals
+Impact Mapping and RICE framework:
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVLfUMYco=/?pres=1&frameId=3458764599999252395&embedId=758090418498" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
